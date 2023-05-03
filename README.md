@@ -9,7 +9,7 @@ Enthusiastic Sr Cloud Engineer with more than 8 years of experience in building,
 *   🌍  I'm based in Dallas, Texas
 *   🖥️  See my portfolio at [will add later on](http://will add soon)
 *   ✉️  You can contact me at [arbazbamboowala0122@gmail.com](mailto:arbazbamboowala0122@gmail.com)
-*   🧠  I'm learning Angular
+*   🧠  I'm learning Java 11
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  I Love Superman!!!
 *   <a href="https://www.github.com/ArbazHamid" target="_blank" rel="noreferrer"><img
