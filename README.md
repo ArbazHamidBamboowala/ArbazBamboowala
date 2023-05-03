@@ -47,17 +47,3 @@ Enthusiastic Sr Cloud Engineer with more than 8 years of experience in building,
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.terra.money/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terra-colored.svg" width="36" height="36" alt="Terra" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/ArbazHamid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/arbaz-h-168761257/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/ArbazHamid"><img src="https://github-readme-stats.vercel.app/api?username=ArbazHamid&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="ArbazHamid's GitHub stats" /></a><a
-                      href="http://www.github.com/ArbazHamid"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=ArbazHamid&stroke=3382ed&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a><a
-                      href="http://www.github.com/ArbazHamid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArbazHamid&bg_color=ffffff&color=3382ed&line=0891b2&point=3382ed&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />### Support Me<a
-                  href="https://www.buymeacoffee.com/ArbazHamid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
