@@ -49,3 +49,13 @@ Enthusiastic Sr Cloud Engineer with more than 8 years of experience in building,
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.terra.money/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terra-colored.svg" width="36" height="36" alt="Terra" /></a>
 </p>
+My Github Stats
+<a href="http://www.github.com/ArbazHamid"><img src="https://github-readme-stats.vercel.app/api?username=ArbazHamid&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="ArbazHamid's GitHub stats" /></a>
+
+<a href="http://www.github.com/ArbazHamid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArbazHamid&bg_color=ffffff&color=3382ed&line=0891b2&point=3382ed&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="http://www.github.com/ArbazHamid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArbazHamid&bg_color=ffffff&color=3382ed&line=0891b2&point=3382ed&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/ArbazHamid/ArbazHamid/AcademicProjects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArbazHamid&repo=ArbazHamid/AcademicProjects&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
