@@ -1,15 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arbaz Hamid
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arbaz Bamboowala
 ===================================================================================================================================
 
-Sr Cloud Engineer
+Analyst
 -----------------
 
-Enthusiastic Sr Cloud Engineer with more than 8 years of experience in building, developing, securing, testing and deploying applications in all phases of software development life cycles. I am working as a Full Stack Java Developer where I built, maintain, test and deploy frontend and backend application. Currently, working with a major finance company in United States as a Fullstack Java Developer with MEAN stack and AWS. Positioned to manage, delegate a team requiring adaptiveness and decision making skills. Monitoring of applications and enhancement of existing product by adding more latest features to it. I have also worked as a MERN Stack since more than 3 years.
+Experienced Data Engineer with 4+ years expertise in analyzing and predicting data and a Master of Science in Business
+Analytics. Proficient in assembling large and complex data sets, conducting ETL operations, and using machine learning
+algorithms for prediction. Skilled in SQL, AWS, Machine Learning, Artificial Intelligence and proficient in visualization tools
+like Tableau and Power BI for predictive analysis. Strong problem-solving, project implementation, and communication skills.
+Committed in data-driven insights to enhance business performance, resulting in measurable improvements in efficiency and
+a 70% increase in revenue.
+
 
 *   🌍  I'm based in Dallas, Texas
-*   🖥️  See my portfolio at [will add later on](http://will add soon)
-*   ✉️  You can contact me at [arbazbamboowala0122@gmail.com](mailto:arbazbamboowala0122@gmail.com)
-*   🧠  I'm learning Advanced into MEAN Stack, RPA, More Cloud Certification
+*   ✉️  You can contact me at [bamboowalaarbaz995@gmail.com](mailto:bamboowalaarbaz995@gmail.com)
+*   🧠  I'm learning Advanced Machine Learning and Artificial Intelligence
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  I Love Programming with Cloud and new Technologies !!!
 *   <a href="https://www.github.com/ArbazHamid" target="_blank" rel="noreferrer"><img
