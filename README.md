@@ -24,6 +24,8 @@ a 70% increase in revenue.
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<link type="image/png" sizes="16x16" rel="icon" href=".../icons8-ai-16.png">
+
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
@@ -41,6 +43,7 @@ My Github Stats
 <a href="http://www.github.com/ArbazHamid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArbazHamid&bg_color=ffffff&color=3382ed&line=0891b2&point=3382ed&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="http://www.github.com/ArbazHamid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArbazHamid&bg_color=ffffff&color=3382ed&line=0891b2&point=3382ed&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <b>Certificate / Certifications </b>
 <a href="https://www.credly.com/badges/18b16872-d108-401d-8d25-54b701c333ff/public_url"/>
 
