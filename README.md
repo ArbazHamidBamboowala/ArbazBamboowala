@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arbaz Bamboowala
 ===================================================================================================================================
 
-Analyst
+Data Analyst / Data Engineer
 -----------------
 
-Experienced Analyst with 4+ years expertise in analyzing and predicting data and a Master of Science in Business
+Experienced Professional with expertise in analyzing and predicting data and a Master of Science in Business
 Analytics. Proficient in assembling large and complex data sets, conducting ETL operations, and using machine learning
 algorithms for prediction. Skilled in SQL, AWS, Machine Learning, Artificial Intelligence and proficient in visualization tools
 like Tableau and Power BI for predictive analysis. Strong problem-solving, project implementation, and communication skills.
