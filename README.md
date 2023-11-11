@@ -12,7 +12,7 @@ Committed in data-driven insights to enhance business performance, resulting in 
 a 70% increase in revenue.
 
 
-*   🌍  I'm based in Dallas, Texas
+*   🌍  I'm located in Dallas, Texas
 *   ✉️  You can contact me at [bamboowalaarbaz995@gmail.com](mailto:bamboowalaarbaz995@gmail.com)
 *   🧠  I'm learning Advanced Machine Learning and Artificial Intelligence
 *   🤝  I'm open to collaborating on Projects
