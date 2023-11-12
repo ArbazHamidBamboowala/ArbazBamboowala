@@ -6,7 +6,7 @@ ML Engineer | Data Analyst | Data Engineer | Developer
 
 Welcome to my Github Portfolio. I am a Technology Enthusiast. <br> </br>
 In this world of IT I started my journey since 2013 where I first learnt to create my World using HTML and printed "Hello World on a Web Browser" My Journey to interest started when I used to play a computer game GTA San Andreas and I changed the entire coding of backend by myself, I implemented new cars, new buildings, I created new look for the characters as well. 
-My love for IT has been deep since then and I dreamt of going into IT sector. I have fabulous grades during my academics as I stand a deep understanding and concepts of programming. I have implemented multiple projects during my studies and worked on ample of technologies.<br> </br>
+My love for IT has been deep since then and I dreamt of going into IT sector. I have fabulous grades during my academics as I stand a deep understanding and concepts of programming. I have implemented multiple projects during my studies and worked on ample of technologies.<br> </br> Markdown :- 
 I had also created my full fledge web page using ASP .net C# during my 4th semester in Bachelors of Science in IT which boosted my confidence and increased my love where in my 5th Semester I self made an interface of Windows displaying simple start menu, calculator and paint application. I have also implemented a project on Google Play Store to help tourists. 
 You can view it in my repository My interest never stopped, I worked and studied together and I implemented a unique application in IOT using Python and Raspberry PI. 
 I have countless projects during this journey, not all are on Github. 
