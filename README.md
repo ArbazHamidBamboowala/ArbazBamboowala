@@ -9,35 +9,30 @@ Howdy ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 <br> </br>
 However, the turning point in my tech odyssey was when I ventured into the realm of gaming, notably with **Grand Theft Auto: San Andreas.** I didn't just play the game; I dove headfirst into its coding. I modified the backend, introducing new cars, buildings, and even crafting unique character appearances. This experience ignited my love for IT, and from that point forward, my dream was set - a career in the IT industry.
 <br> </br>
-
 Throughout my academic journey, I consistently achieved outstanding grades, honing my deep understanding of programming concepts. This foundation allowed me to undertake numerous projects spanning a wide array of technologies.
 <br> </br>
-
 During my undergraduate studies, in my fourth semester, I created a full-fledged web page using **ASP .NET in C#** , a milestone that significantly bolstered my confidence. By my fifth semester, I independently designed a Windows interface complete with a simple start menu, calculator, and paint application using **Java**. I also ventured into the mobile application world, with a project available on the Google Play Store, catering to tourists.
 <br> </br>
 I have advanced knowledge with **Networking and Implementing** Security as well.
 Worked with various Databases including **SQL and NoSQL**.
 My passion for technology never waned. I continuously sought opportunities to blend work and study, culminating in the development of a unique Internet of Things (IoT) application using Python and Raspberry Pi. The journey went on creating URL Shortner using **Python**, Analyzing and predicting house prices after covid using various **Machine Learning Algorithms**, Analyzed HR data using **Power BI**, Completed movies prediction using **Tableau** and I have also worked using various cloud technologies such as **AWS, Google, Azure**. 
 <br> </br>
-
 My journey boasts numerous projects, experience with different tools and technologies, is with many more beyond this GitHub repository.
 <br> </br>
-
 My qualifications include:
 <br> </br>
-
 Bachelors of Science in IT - 2017
 Masters of Science in IT - 2019
 Masters of Science in Marketing & Business Analytics - 2022
 I firmly believe in the limitless possibilities that technology offers. As the saying goes, "The sky is the limit," and I am driven by the conviction that I work harder then yesterday. 😃
 <br> </br>
-
 *   🌍  I'm based in Irving, Dallas, Texas
 *   ✉️  You can contact me at [bamboowalaarbaz995@gmail.com](mailto:bamboowalaarbaz995@gmail.com) / 469-439-2305 
 *   🧠  I'm learning Machine Learning and AI
 *   🤝  I'm open to collaborating on ANY PROJECT IMPLEMENTATION
 *   ⚡  I love Marvel Shows. My Favorite character is Superman - Do Good Secretly. I also love to go for Long Drives and explore new things. I love Martial Arts, Swimming, Hip Hop, Creating Flyers.
 *   :birthday: I came to Earth on January 1st 1995.
+  
 *   ### Skills:
   
 <p align="left">
