@@ -18,7 +18,6 @@ During my undergraduate studies, in my fourth semester, I created a full-fledged
 I have advanced knowledge with **Networking and Implementing** Security as well.
 Worked with various Databases including **SQL and NoSQL**.
 My passion for technology never waned. I continuously sought opportunities to blend work and study, culminating in the development of a unique Internet of Things (IoT) application using Python and Raspberry Pi. The journey went on creating URL Shortner using **Python**, Analyzing and predicting house prices after covid using various **Machine Learning Algorithms**, Analyzed HR data using **Power BI**, Completed movies prediction using **Tableau** and I have also worked using various cloud technologies such as **AWS, Google, Azure**. 
-
 <br> </br>
 
 My journey boasts numerous projects, experience with different tools and technologies, is with many more beyond this GitHub repository.
