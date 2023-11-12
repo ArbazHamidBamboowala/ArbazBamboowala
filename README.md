@@ -7,18 +7,19 @@
 ## ------------------------------------------------------
 
 # Welcome to my World of Technology!
-I am a passionate technology enthusiast with a journey that commenced in 2013 when I first delved into the world of IT. My initial adventure involved creating web pages with HTML and the exhilarating moment when I made "Hello World" come to life in a web browser.
+**I am a passionate technology enthusiast with a journey that commenced in 2013 when I first delved into the world of IT. My initial adventure involved creating web pages with HTML and the exhilarating moment when I made "Hello World" come to life in a web browser.**
 <br> </br>
-However, the turning point in my tech odyssey was when I ventured into the realm of gaming, notably with ** Grand Theft Auto: San Andreas. ** I didn't just play the game; I dove headfirst into its coding. I modified the backend, introducing new cars, buildings, and even crafting unique character appearances. This experience ignited my love for IT, and from that point forward, my dream was set - a career in the IT industry.
+However, the turning point in my tech odyssey was when I ventured into the realm of gaming, notably with **Grand Theft Auto: San Andreas.** I didn't just play the game; I dove headfirst into its coding. I modified the backend, introducing new cars, buildings, and even crafting unique character appearances. This experience ignited my love for IT, and from that point forward, my dream was set - a career in the IT industry.
 <br> </br>
 
 Throughout my academic journey, I consistently achieved outstanding grades, honing my deep understanding of programming concepts. This foundation allowed me to undertake numerous projects spanning a wide array of technologies.
 <br> </br>
 
-During my undergraduate studies, in my fourth semester, I created a full-fledged web page using ASP .NET in C# , a milestone that significantly bolstered my confidence. By my fifth semester, I independently designed a Windows interface complete with a simple start menu, calculator, and paint application. I also ventured into the mobile application world, with a project available on the Google Play Store, catering to tourists.
+During my undergraduate studies, in my fourth semester, I created a full-fledged web page using **ASP .NET in C#** , a milestone that significantly bolstered my confidence. By my fifth semester, I independently designed a Windows interface complete with a simple start menu, calculator, and paint application using **Java**. I also ventured into the mobile application world, with a project available on the Google Play Store, catering to tourists.
 <br> </br>
-
-My passion for technology never waned. I continuously sought opportunities to blend work and study, culminating in the development of a unique Internet of Things (IoT) application using Python and Raspberry Pi. The journey went on creating URL Shortner using Python, Analyzing and predicting house prices after covid using various Machine Learning Algorithms, Analyzed HR data using Power BI, Completed movies prediction using Tableau and so on. 
+I have advanced knowledge with **Networking and Implementing** Security as well.
+Worked with various Databases including **SQL and NoSQL**.
+My passion for technology never waned. I continuously sought opportunities to blend work and study, culminating in the development of a unique Internet of Things (IoT) application using Python and Raspberry Pi. The journey went on creating URL Shortner using **Python**, Analyzing and predicting house prices after covid using various Machine Learning Algorithms, Analyzed HR data using Power BI, Completed movies prediction using Tableau and so on. 
 
 <br> </br>
 
