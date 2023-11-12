@@ -11,7 +11,7 @@ algorithms for prediction. Skilled in SQL, AWS, Machine Learning, Artificial Int
 like Tableau and Power BI for predictive analysis. Strong problem-solving, project implementation, and communication skills.
 Committed in data-driven insights to enhance business performance, resulting in measurable improvements in efficiency and
 a 70% increase in revenue.
-Howdy!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arbaz Bamboowala
+
 ========================================================================================================================================
 
 ML Engineer | Data Analyst | Data Engineer | Developer
