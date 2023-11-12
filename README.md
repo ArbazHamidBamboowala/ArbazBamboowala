@@ -1,8 +1,8 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arbaz Bamboowala
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arbaz Bamboowala
 
-========================================================================================================================================
-## ML Engineer | Data Analyst | Data Engineer | Developer
-## ------------------------------------------------------
+=================================================================================================
+### ML Engineer | Data Analyst | Data Engineer | Developer
+### ------------------------------------------------------
 
 # Welcome to my World of Technology!
 **I am a passionate technology enthusiast with a journey that commenced in 2013 when I first delved into the world of IT. My initial adventure involved creating web pages with HTML and the exhilarating moment when I made "Hello World" come to life in a web browser.**
