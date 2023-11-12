@@ -1,7 +1,7 @@
 Howdy ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arbaz
 
 ========================================================================================
-### ML Engineer | Data Analyst | Data Engineer | Developer
+### AI/ML Engineer | Data Analyst | Data Engineer | Developer
 ### ------------------------------------------------------
 
 # Welcome to my World of Technology!
@@ -17,7 +17,7 @@ I have advanced knowledge with **Networking and Implementing** Security as well.
 Worked with various Databases including **SQL and NoSQL**.
 My passion for technology never waned. I continuously sought opportunities to blend work and study, culminating in the development of a unique Internet of Things (IoT) application using Python and Raspberry Pi. The journey went on creating URL Shortner using **Python**, Analyzing and predicting house prices after covid using various **Machine Learning Algorithms**, Analyzed HR data using **Power BI**, Completed movies prediction using **Tableau** and I have also worked using various cloud technologies such as **AWS, Google, Azure**. 
 <br> </br>
-My journey boasts numerous projects, experience with different tools and technologies, is with many more beyond this GitHub repository.
+My journey boasts numerous projects, experience with different tools such as CRM's, ERM and technologies, is with many more beyond this GitHub repository.
 <br> </br>
 My qualifications include:
 <br> </br>
