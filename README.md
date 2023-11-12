@@ -29,7 +29,7 @@ My qualifications include:
 Bachelors of Science in IT - 2017
 Masters of Science in IT - 2019
 Masters of Science in Marketing & Business Analytics - 2022
-I firmly believe in the limitless possibilities that technology offers. As the saying goes, "The sky is the limit," and I am driven by the conviction that I am limitless. 😃
+I firmly believe in the limitless possibilities that technology offers. As the saying goes, "The sky is the limit," and I am driven by the conviction that I work harder then yesterday. 😃
 <br> </br>
 
 *   🌍  I'm based in Irving, Dallas, Texas
