@@ -21,9 +21,9 @@ My journey boasts numerous projects, experience with different tools such as CRM
 <br> </br>
 My qualifications include:
 <br> </br>
-Bachelors of Science in IT - 2017
-Masters of Science in IT - 2019
-Masters of Science in Marketing & Business Analytics - 2022
+Bachelors of Science in IT - 2017 <br> </br>
+Masters of Science in IT - 2019 <br> </br>
+Masters of Science in Marketing & Business Analytics - 2022 <br> </br>
 I firmly believe in the limitless possibilities that technology offers. As the saying goes, "The sky is the limit," and I am driven by the conviction that I work harder then yesterday. 😃
 <br> </br>
 *   🌍  I'm based in Irving, Dallas, Texas
