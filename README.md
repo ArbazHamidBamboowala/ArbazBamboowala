@@ -1,24 +1,46 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arbaz Bamboowala
+# Howdy! <br> </br>
+
+# [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arbaz Bamboowala
 ========================================================================================================================================
 
-ML Engineer | Data Analyst | Data Engineer | Developer
-------------------------------------------------------
+## ML Engineer | Data Analyst | Data Engineer | Developer
+## ------------------------------------------------------
 
-Welcome to my Github Portfolio. I am a Technology Enthusiast. <br> </br>
-In this world of IT I started my journey since 2013 where I first learnt to create my World using HTML and printed "Hello World on a Web Browser" My Journey to interest started when I used to play a computer game GTA San Andreas and I changed the entire coding of backend by myself, I implemented new cars, new buildings, I created new look for the characters as well. 
-My love for IT has been deep since then and I dreamt of going into IT sector. I have fabulous grades during my academics as I stand a deep understanding and concepts of programming. I have implemented multiple projects during my studies and worked on ample of technologies.<br> </br>
-I had also created my full fledge web page using ASP .net C# during my 4th semester in Bachelors of Science in IT which boosted my confidence and increased my love where in my 5th Semester I self made an interface of Windows displaying simple start menu, calculator and paint application. I have also implemented a project on Google Play Store to help tourists. 
-You can view it in my repository My interest never stopped, I worked and studied together and I implemented a unique application in IOT using Python and Raspberry PI. 
-I have countless projects during this journey, not all are on Github. 
+# Welcome to my World of Technology!
+** I am a passionate technology enthusiast with a journey that commenced in 2013 when I first delved into the world of IT. My initial adventure involved creating web pages with HTML and the exhilarating moment when I made "Hello World" come to life in a web browser. ** 
+<br> </br>
+However, the turning point in my tech odyssey was when I ventured into the realm of gaming, notably with ** Grand Theft Auto: San Andreas. ** I didn't just play the game; I dove headfirst into its coding. I modified the backend, introducing new cars, buildings, and even crafting unique character appearances. This experience ignited my love for IT, and from that point forward, my dream was set - a career in the IT industry.
+<br> </br>
 
-My Qualifications include: Bachelors of Science in IT - 2017 Masters of Science in IT - 2019 Masters of Science in Marketing & Business Analytics - 2022 There is not stopping, I would keep going because - SKY IS THE LIMIT, I AM LIMITLESS :)
+Throughout my academic journey, I consistently achieved outstanding grades, honing my deep understanding of programming concepts. This foundation allowed me to undertake numerous projects spanning a wide array of technologies.
+<br> </br>
+
+During my undergraduate studies, in my fourth semester, I created a full-fledged web page using ** ASP .NET in C# **, a milestone that significantly bolstered my confidence. By my fifth semester, I independently designed a Windows interface complete with a simple start menu, calculator, and paint application. I also ventured into the mobile application world, with a project available on the Google Play Store, catering to tourists.
+<br> </br>
+
+My passion for technology never waned. I continuously sought opportunities to blend work and study, culminating in the development of a unique Internet of Things (IoT) application using Python and Raspberry Pi. The journey went on creating URL Shortner using Python, Analyzing and predicting house prices after covid using various Machine Learning Algorithms, Analyzed HR data using Power BI, Completed movies prediction using Tableau and so on. 
+
+<br> </br>
+
+My journey boasts numerous projects, experience with different tools and technologies, is with many more beyond this GitHub repository.
+<br> </br>
+
+My qualifications include:
+<br> </br>
+
+Bachelors of Science in IT - 2017
+Masters of Science in IT - 2019
+Masters of Science in Marketing & Business Analytics - 2022
+I firmly believe in the limitless possibilities that technology offers. As the saying goes, "The sky is the limit," and I am driven by the conviction that I am limitless. 😃
+<br> </br>
 
 *   🌍  I'm based in Irving, Dallas, Texas
 *   ✉️  You can contact me at [bamboowalaarbaz995@gmail.com](mailto:bamboowalaarbaz995@gmail.com) / 469-439-2305 
 *   🧠  I'm learning Machine Learning and AI
 *   🤝  I'm open to collaborating on ANY PROJECT IMPLEMENTATION
-*   ⚡  I love Marvel Shows. My Favorite character is Superman - Do Good Secretly. I also love to go for Long Drives and explore new things. I love Martial Arts, Swimming, Hip Hop
-*
+*   ⚡  I love Marvel Shows. My Favorite character is Superman - Do Good Secretly. I also love to go for Long Drives and explore new things. I love Martial Arts, Swimming, Hip Hop, Creating Flyers.
+*   
+* # CURRENTLY I AM WORKING ON IMPLEMENTING OPENAGENTS ALSO MY FOCUS IS ON ML AND AI, ANALYZING DATA, WORKING WITH DIFFERENT CATEOGORIES OF DATA.
 *   ### Skills
 *   
 <p align="left">
