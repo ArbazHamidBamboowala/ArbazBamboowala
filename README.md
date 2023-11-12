@@ -1,23 +1,10 @@
-Howdy!!
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name is Arbaz Bamboowala
-===================================================================================================================================
-
-Data Analyst / Data Engineer
------------------
-
-Experienced Professional with expertise in analyzing and predicting data and a Master of Science in Business
-Analytics. Proficient in assembling large and complex data sets, conducting ETL operations, and using machine learning
-algorithms for prediction. Skilled in SQL, AWS, Machine Learning, Artificial Intelligence and proficient in visualization tools
-like Tableau and Power BI for predictive analysis. Strong problem-solving, project implementation, and communication skills.
-Committed in data-driven insights to enhance business performance, resulting in measurable improvements in efficiency and
-a 70% increase in revenue.
-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arbaz Bamboowala
 ========================================================================================================================================
 
 ML Engineer | Data Analyst | Data Engineer | Developer
 ------------------------------------------------------
 
-Welcome to my Github Portfolio. I am a Technology Enthusiast. In this world of IT I have been growing since 2013 where I first learnt to create my World using HTML and printed "Hello World on a Web Browser" My Journey to interest started when I used to play a computer game GTA San Andreas and I changed the entire coding of backend by myself, I implemented new cars, new buildings, I created new look for the characters as well. My love for IT has been deep since then and I dreamt of going into IT sector. I have fabulous grades during my academics as I stand a deep understanding and concepts of programming. I have implemented multiple projects during my studies and worked on ample of technologies. I had also created my full fledge web page using ASP .net C# during my 4th semester in Bachelors of Science in IT which boosted my confidence and increased my love where in my 5th Semester I self made an interface of Windows displaying simple start menu, calculator and paint application. I have also implemented a project on Google Play Store to help tourists. You can view it in my repository My interest never stopped, I worked and studied together and I implemented a unique application in IOT using Python and Raspberry PI. I have countless projects during this journey, not all are on Github. You can view biggers ones. My Qualifications include: Bachelors of Science in IT - 2017 Masters of Science in IT - 2019 Masters of Science in Marketing & Business Analytics - 2022 There is not stopping, My Belief is Working Harder then Yesterday and I would keep going because - SKY IS THE LIMIT, I AM LIMITLESS :)
+Welcome to my Github Portfolio. I am a Technology Enthusiast. In this world of IT I have been growing since 2013 where I first learnt to create my World using HTML and printed "Hello World on a Web Browser" My Journey to interest started when I used to play a computer game GTA San Andreas and I changed the entire coding of backend by myself, I implemented new cars, new buildings, I created new look for the characters as well. My love for IT has been deep since then and I dreamt of going into IT sector. I have fabulous grades during my academics as I stand a deep understanding and concepts of programming. I have implemented multiple projects during my studies and worked on ample of technologies. I had also created my full fledge web page using ASP .net C# during my 4th semester in Bachelors of Science in IT which boosted my confidence and increased my love where in my 5th Semester I self made an interface of Windows displaying simple start menu, calculator and paint application. I have also implemented a project on Google Play Store to help tourists. You can view it in my repository My interest never stopped, I worked and studied together and I implemented a unique application in IOT using Python and Raspberry PI. I have countless projects during this journey, not all are on Github. You can view biggers ones. My Qualifications include: Bachelors of Science in IT - 2017 Masters of Science in IT - 2019 Masters of Science in Marketing & Business Analytics - 2022 There is not stopping, I would keep going because - SKY IS THE LIMIT, I AM LIMITLESS :)
 
 *   🌍  I'm based in Irving, Dallas, Texas
 *   ✉️  You can contact me at [bamboowalaarbaz995@gmail.com](mailto:bamboowalaarbaz995@gmail.com)
