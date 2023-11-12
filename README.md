@@ -17,7 +17,7 @@ During my undergraduate studies, in my fourth semester, I created a full-fledged
 <br> </br>
 I have advanced knowledge with **Networking and Implementing** Security as well.
 Worked with various Databases including **SQL and NoSQL**.
-My passion for technology never waned. I continuously sought opportunities to blend work and study, culminating in the development of a unique Internet of Things (IoT) application using Python and Raspberry Pi. The journey went on creating URL Shortner using **Python**, Analyzing and predicting house prices after covid using various Machine Learning Algorithms, Analyzed HR data using Power BI, Completed movies prediction using Tableau and so on. 
+My passion for technology never waned. I continuously sought opportunities to blend work and study, culminating in the development of a unique Internet of Things (IoT) application using Python and Raspberry Pi. The journey went on creating URL Shortner using **Python**, Analyzing and predicting house prices after covid using various **Machine Learning Algorithms**, Analyzed HR data using **Power BI**, Completed movies prediction using **Tableau** and I have also worked using various cloud technologies such as **AWS, Google, Azure**. 
 
 <br> </br>
 
@@ -38,7 +38,7 @@ I firmly believe in the limitless possibilities that technology offers. As the s
 *   🧠  I'm learning Machine Learning and AI
 *   🤝  I'm open to collaborating on ANY PROJECT IMPLEMENTATION
 *   ⚡  I love Marvel Shows. My Favorite character is Superman - Do Good Secretly. I also love to go for Long Drives and explore new things. I love Martial Arts, Swimming, Hip Hop, Creating Flyers.
-  
+*   :birthday: I came to Earth on January 1st 1995.
 *   ### Skills:
   
 <p align="left">
