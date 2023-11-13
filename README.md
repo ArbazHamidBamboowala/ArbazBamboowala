@@ -22,7 +22,7 @@ My journey boasts numerous projects, experience with different tools such as CRM
 My qualifications include:
 <br> </br>
 I have worked in multiple sectors and gained ample of knowledge and experience over the years where I had worked on multiple projects. 
-Visit my LinkedIn profile on the link in the left tab
+Visit my LinkedIn profile: [https://www.linkedin.com/in/arbazb/](url)
 
 Masters of Science in Marketing & Business Analytics - 2022, Texas A&M University-Commerce, Texas, USA <br> </br>
 Masters of Science in IT - 2019, KC College, University of Mumbai, India <br> </br>
