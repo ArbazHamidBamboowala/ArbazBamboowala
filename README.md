@@ -21,9 +21,11 @@ My journey boasts numerous projects, experience with different tools such as CRM
 <br> </br>
 My qualifications include:
 <br> </br>
-Bachelors of Science in IT - 2017, Maharashtra College, University of Mumbai, India <br> </br>
-Masters of Science in IT - 2019, KC College, University of Mumbai, India <br> </br>
+
 Masters of Science in Marketing & Business Analytics - 2022, Texas A&M University-Commerce, Texas, USA <br> </br>
+Masters of Science in IT - 2019, KC College, University of Mumbai, India <br> </br>
+Bachelors of Science in IT - 2017, Maharashtra College, University of Mumbai, India <br> </br>
+
 I firmly believe in the limitless possibilities that technology offers. As the saying goes, "The sky is the limit," and I am driven by the conviction that I work harder then yesterday. 😃
 <br> </br>
 *   🌍  I'm based in Irving, Dallas, Texas
