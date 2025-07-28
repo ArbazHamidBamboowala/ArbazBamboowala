@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arbaz
 
 ========================================================================================
-### Business Analyst | Data Analyst | Data Scientist
+### Sr Data Manager | Business Analyst | Data Engineer | Business Analyst | Support Engineer| Jr Software Engineer | Data Scientist
 ### ------------------------------------------------------
 
 # Welcome to my World of Technology!
